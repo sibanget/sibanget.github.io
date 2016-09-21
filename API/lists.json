@@ -1,0 +1,48 @@
+
+[
+  {
+    "id": 0,
+    "title": "Install Java dan Netbeans",
+    "category": "Alpro",
+    "cover": "./src/assets/img-content/oracle-download.png",
+    "date": "19 September 2016",
+    "deadline": "26 September 2016",
+    "dosen": "Pak Andhy",
+    "content": "Jangan lupa buat download dan install Java di laptop masing-masing. Netbeans hanyalah editor biasa, ini sifatnya opsional dan bisa digantikan dengan notepad++ ataupun notepad biasa. Untuk download Java bisa [kesini](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) dan Netbeans [Disini](https://netbeans.org/downloads/). Jangan lupa untuk menyesuaikan dengan ```bit``` masing-masing laptop."
+  },
+
+  {
+    "id": 1,
+    "title": "Makalah Peranan Manager Dalam Instansi",
+    "category": "Manajemen Organisasi",
+    "cover": "./src/assets/img-content/pak-milad-2.jpg",
+    "date": "21 September 2016",
+    "deadline": "28 September 2016",
+    "dosen": "Pak Milad",
+    "content": "Menulis makalah dengan tema *Peran Manager Dalam Instansi* yang ditinjau dalam 3 aspek, yaitu:\n- Peran Decisional\n- Peran Interpersonal\n- Peran Informasi\n\nAdapun beberapa syarat yang harus dipenuhi, yaitu:\n- Minimal mencari 3 judul buku untuk dijadikan referensi\n- Minimal 4 Halaman,\n- Tidak boleh mencari referensi dari google\n- Mohon diupayakan supaya tidak banyak coretan\n\nLast but not least, thanks to ```Ainur``` And ```Dede``` atas informasinya~"
+  },
+
+  {
+    "id": 2,
+    "title": "Perbaikki Dan Kirim Tugas Alpro Yang Pertama",
+    "category": "Alpro",
+    "cover": "./src/assets/img/blank-thumbnail.png",
+    "date": "16 September 2016",
+    "deadline": "23 September 2016",
+    "dosen": "Pak Andhy",
+    "content": "Jangan Lupa buat perbaikki dan kirim tugas Alpro yang pertama ke email pak andy [andhy@uinsby.ac.id](mailto://andhy@uinsby.ac.id)"
+  },
+
+  {
+    "id": 3,
+    "title": "Menulis Tentang Rencana Kesuksesan",
+    "category": "B. Indo",
+    "cover": "./src/assets/img/blank-thumbnail.png",
+    "date": "16 September 2016",
+    "deadline": "23 September 2016",
+    "dosen": "Bu Indri",
+    "content": "Dicetak dalam bentuk hardcopy, tulis karangan bebas dengan tema **Rencana Kesuksesan** menurut pendapat pribadi dan minimal *2 Halaman*. Sebenernya ada beberapa tema khusus yang disarankan. Tapi kemarin males nyatet jadi gak tau. Mangats!"
+  }
+
+
+]
