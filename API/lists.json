@@ -42,6 +42,28 @@
     "deadline": "23 September 2016",
     "dosen": "Bu Indri",
     "content": "Dicetak dalam bentuk hardcopy, tulis karangan bebas dengan tema **Rencana Kesuksesan** menurut pendapat pribadi dan minimal *2 Halaman*. Sebenernya ada beberapa tema khusus yang disarankan. Tapi kemarin males nyatet jadi gak tau. Mangats!"
+  },
+
+  {
+    "id": 4,
+    "title": "Membuat Mindmap",
+    "category": "PSI",
+    "cover": "./src/assets/img-content/mindmap.png",
+    "date": "22 September 2016",
+    "deadline": "6 Oktober 2016",
+    "dosen": "Pak Mujib",
+    "content": "Membuat Mindmap tentang **Sumber-Sumber Hukum Islam**. Kita janjian di kertas **F4** aja rek. Soalnya nggambar mindmap itu perlu space yang besar. Saran, mending kita juga kompakan ngumpulin di Minggu pertama. Mangats!"
+  },
+
+  {
+    "id": 5,
+    "title": "Membuat Video PTI",
+    "category": "PTI",
+    "cover": "./src/assets/img/blank-thumbnail.png",
+    "date": "22 September 2016",
+    "deadline": "29 September 2016",
+    "dosen": "Bu Dwi",
+    "content": "Jangan lupa buat kelompok **yang belum maju** untuk bikin video sesuai dengan bab yang didapat. Bisa berbentuk drama, peragaan ataupun video konten bebas. Yang jelas, harus bisa memperkenalkan input atau output atau proses atau memori sesuai lotre kemarin. Mangats!"
   }
 
 

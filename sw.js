@@ -62,6 +62,7 @@ self.onfetch = function (e) {
     );
   }
 
+  // Cache First
   else if (e.request.url.indexOf('src/assets/img-content') > -1) {
     e.respondWith(
       caches.match(e.request).then(function (res) {
