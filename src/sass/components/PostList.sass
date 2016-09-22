@@ -8,6 +8,12 @@
     box-shadow: 0 3px 3px 0 rgba(0,0,0,.1)
     border-bottom: 2px solid rgba(0,0,0,.2)
 
+    &.danger
+      border: 2px solid #FF7E7E
+
+    &.warning
+      border: 2px solid #FF7E7E
+
     &_thumbnail
       position: relative
 
@@ -15,14 +21,20 @@
       position: absolute
       bottom: 13px
       right: 15px
-      background: $primary
-      display: inline-block
-      padding: 5px
-      color: white !important
-      border-radius: 3px
-      font-size: 1.2rem
-      font-weight: 700
-      text-decoration: none !important
+
+      &_item
+        background: $primary
+        display: inline-block
+        padding: 5px
+        color: white !important
+        border-radius: 3px
+        font-size: 1.2rem
+        font-weight: 700
+        text-decoration: none !important
+        margin-left: 2px
+
+        &.danger
+          background: red
 
 
     &_body
