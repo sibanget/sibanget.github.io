@@ -6,7 +6,9 @@
 
     <div v-if="items.length > 0" v-for="item in items | filterBy searchQuery | orderBy 'id' -1" class="PostList-item">
       <div class="PostList-item_thumbnail">
-        <img :src="item.cover" alt="">
+        <a v-link="{ path: '/post/' + item.id }">
+          <img :src="item.cover" alt="">
+        </a>
         <a class="PostList-item_label" @click.prevent="filterPost(item.category)">{{ item.category }}</a>
       </div>
       <div class="PostList-item_body">
@@ -39,6 +41,10 @@
       filterPost(category) {
         this.UIActions('UPDATE_SEARCH_QUERY', category)
       }
+    },
+
+    created () {
+      this.UIActions('ON_NETRAL_PAGE')
     }
   };
 
