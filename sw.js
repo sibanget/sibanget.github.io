@@ -2,7 +2,7 @@
 
 importScripts('serviceworker-cache-polyfill.js');
 
-var CACHE_NAME = 'sibanget-v2';
+var CACHE_NAME = 'sibanget-v3';
 
 // File want to cache
 var urlsToCache = [
@@ -103,7 +103,7 @@ self.onactivate = function (e) {
 
   console.log('[serviceWorker]: Actived');
 
-  var whiteList = ['sibanget-v2'];
+  var whiteList = ['sibanget-v3'];
 
   e.waitUntil(
     caches.keys().then(function (cacheNames) {
